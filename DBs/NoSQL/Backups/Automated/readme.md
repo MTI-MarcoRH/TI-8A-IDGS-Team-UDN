@@ -9,6 +9,7 @@ La carpeta **Automated** en un proyecto generalmente se usa para almacenar scrip
 > &nbsp;&nbsp;|- **NoSQL**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;|- **Backups**<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- **Automated**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- Manual<br>
 >| - Deliverables<br>
 >| - Docs<br>
 >| - Prototypes<br>
