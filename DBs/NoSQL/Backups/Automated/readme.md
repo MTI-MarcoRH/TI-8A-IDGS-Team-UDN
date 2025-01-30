@@ -6,10 +6,10 @@ La carpeta **Automated** en un proyecto generalmente se usa para almacenar scrip
 
 >Proyecto Integrador Hospital(Servicios Medicos)<br>
 >| - **DBs** <br>
-> &nbsp;&nbsp;|- **NoSQL**<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;|- **Backups**<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- **Automated**<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|- Manual<br>
+> &nbsp;&nbsp;| - **NoSQL**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;| - **Backups**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - **Automated**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - Manual<br>
 >| - Deliverables<br>
 >| - Docs<br>
 >| - Prototypes<br>
