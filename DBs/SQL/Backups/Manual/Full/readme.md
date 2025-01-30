@@ -1,1 +1,3 @@
- 
+#Respaldos Manuales de SQL ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+Este archivo contiene respaldos manuales en SQL, cuyo objetivo es asegurar la integridad y disponibilidad de la información. Permiten la recuperación de datos en caso de fallos del sistema, errores humanos o corrupción de datos. Además, facilitan la migración, las pruebas y protegen la base de datos antes de aplicar cambios significativos.
