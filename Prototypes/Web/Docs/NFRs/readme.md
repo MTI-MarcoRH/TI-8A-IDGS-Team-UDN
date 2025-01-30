@@ -1,1 +1,3 @@
- 
+ # NO FUNCTIONAL REQUERIMENTS (Requerimientos no funcionales) ![NFRs] (https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)
+
+ Esta sección describe los requerimientos no funcionales del sistema, los cuales establecen criterios de calidad, desempeño, seguridad y usabilidad que deben cumplirse para garantizar el correcto funcionamiento y experiencia del usuario. Estos requisitos no están relacionados directamente con las funcionalidades del sistema, sino con sus características técnicas y operativas.
