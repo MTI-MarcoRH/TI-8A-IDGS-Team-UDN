@@ -13,17 +13,6 @@ Este directorio contiene scripts para llenar bases de datos NoSQL con datos de m
 
 
 
-
-## Estructura de carpetas
-
-```
-DBs
-└── NoSQL
-    └── Scripts
-        ├── Poblate
-        └── readme.md
-```
-
 ## Uso
 
 1. Navegue hasta el directorio apropiado para su base de datos NoSQL.
@@ -33,3 +22,11 @@ DBs
 
 - Asegúrese de tener instalado y en ejecución el software de base de datos necesario.
 
+## Equipo de Desarrollo
+| Nombre | GitHub | Estado |
+|--------|--------|--------|
+| Brayn Kalid Reyes Silva | [@KalidRs](https://github.com/KalidRs) | ❌ Sin comentarios |
+| Luis Iván Márquez Azuara | [@luisivmaraz](https://github.com/luisivmaraz) | ✔️  Revisado y aprobado  |
+| Aldo Tolentino Domingo | [@Aldotd12](https://github.com/Aldotd12) | ❌ Sin comentarios |
+| David Reyes Tellez | [@angelR003](https://github.com/angelR003) | ❌ Sin comentarios |
+| Irving Morales Dominguez | [@IrvingMordo26](https://github.com/IrvingMordo26) | ❌ Sin comentarios |
