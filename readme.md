@@ -5,8 +5,7 @@
 ### Preparando la Fusión de Rama de Marco - 8A
 ### Preparando la Fusión de Rama de Kalid - 8A
 ### Preparando la Fusión de Rama de Esaú - 8A
-### Preparando la Fusión de Rama de Daniel - 8A
-
+### Fusión de Rama de Briones - 8A
 
 # 8° B IDGS 
 

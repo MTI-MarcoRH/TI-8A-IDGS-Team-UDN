@@ -10,6 +10,7 @@ Esta carpeta contiene la gestión de bases de datos utilizadas en el proyecto, t
 
 ## 🏆 Integrantes del Equipo
 
+<<<<<<< HEAD
 | Integrante                       | Contacto | Rol                 | Observaciones     |
 | -------------------------------- | -------- | ------------------- | ----------------- |
 | Luis Octavio Lopez Martinez      | 📧       | Backend             | Sin observaciones |
@@ -20,5 +21,17 @@ Esta carpeta contiene la gestión de bases de datos utilizadas en el proyecto, t
 | Eli Haziel Ortiz Ramirez         | 📧       | Frontend            | Sin observaciones |
 | Jose Alejandro Briones Arroyo    | 📧       | DevOps              | Sin observaciones |
 | Leslie Jannet Aparicio Castro    | 📧       | Documentación       | Sin observaciones |
+=======
+| Integrante                       | Contacto             | Rol                 | Observaciones     |
+| -------------------------------- | -------------------- | ------------------- | ----------------- |
+| Luis Octavio Lopez Martinez      | 📧 @LOctavioDev      | Backend             | Sin observaciones |
+| Jazziel Rodriguez Lopez          | 📧 @JazzoLopez       | Backend             | Sin observaciones |
+| Neftali Arturo Hernandez Vergara | 📧 @Nefta11          | Desarrollador Móvil | Sin observaciones |
+| Brayan Roberto García Bernabé    | 📧 @BraytoGBDX       | Desarrollador Móvil | Sin observaciones |
+| Jose Angel Fosado Animas         | 📧 @JFosado          | Frontend            | Sin observaciones |
+| Eli Haziel Ortiz Ramirez         | 📧 @Yayo22124        | Frontend            | Sin observaciones |
+| Jose Alejandro Briones Arroyo    | 📧 @alexba2004       | DevOps              | Sin observaciones |
+| Leslie Jannet Aparicio Castro    | 📧 @leslie-aparicio  | Documentación       | Sin observaciones |
+>>>>>>> 860eb3c (Practica 07)
 
 Hecho por: Jose Alejandro Briones Arroyo
