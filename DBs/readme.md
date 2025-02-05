@@ -8,59 +8,6 @@
 
 Esta carpeta contiene la gestión de bases de datos utilizadas en el proyecto, tanto SQL como NoSQL. Se incluyen modelos, esquemas, consultas, respaldos y scripts para facilitar la administración y manipulación de datos.
 
-## 📂 Estructura de Carpetas
-
-```bash
-DBs/
-├── NoSQL
-│   ├── Backups
-│   │   ├── Automated
-│   │   │   ├── Full
-│   │   │   ├── Partial
-│   │   │   └── readme.md
-│   │   ├── Manual
-│   │   │   ├── Full
-│   │   │   ├── Partial
-│   │   │   └── readme.md
-│   │   └── readme.md
-│   ├── Diagrams
-│   ├── Models
-│   ├── Queries
-│   ├── Schemas
-│   ├── Scripts
-│   │   ├── Poblate
-│   │   └── readme.md
-│   └── readme.md
-├── SQL
-│   ├── Backups
-│   │   ├── Automated
-│   │   │   ├── Full
-│   │   │   ├── Partial
-│   │   │   └── readme.md
-│   │   ├── Manual
-│   │   │   ├── Full
-│   │   │   ├── Partial
-│   │   │   └── readme.md
-│   │   └── readme.md
-│   ├── DataDictionary
-│   ├── Diagrams
-│   │   ├── MER
-│   │   ├── MERE
-│   │   ├── MR
-│   │   └── readme.md
-│   ├── Events
-│   ├── Queries
-│   ├── Scripts
-│   │   ├── Creation
-│   │   ├── Functions
-│   │   ├── Poblate
-│   │   ├── USPs
-│   │   └── readme.md
-│   ├── Triggers
-│   └── readme.md
-├── readme.md
-```
-
 ## 🏆 Integrantes del Equipo
 
 | Integrante                       | Contacto | Rol                 | Observaciones     |
@@ -74,3 +21,4 @@ DBs/
 | Jose Alejandro Briones Arroyo    | 📧       | DevOps              | Sin observaciones |
 | Leslie Jannet Aparicio Castro    | 📧       | Documentación       | Sin observaciones |
 
+Hecho por: Jose Alejandro Briones Arroyo
