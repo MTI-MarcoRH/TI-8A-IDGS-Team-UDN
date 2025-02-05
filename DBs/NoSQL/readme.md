@@ -12,26 +12,16 @@ Esta carpeta contiene la documentación y recursos relacionados con bases de dat
 - **Scripts**: Almacena scripts útiles para la administración y manejo de las bases de datos.
 - **readme.md**: Este archivo de documentación.
 
-# Estructura de Carpetas
 
-```
-.
-├── Backups
-├── Diagrams
-├── Models
-├── Queries
-├── Schemas
-├── Scripts
-└── readme.md
-```
+| Integrante                        | Contacto                                      | Rol            | Observaciones     |
+|-----------------------------------|-----------------------------------------------|----------------|-------------------|
+| Luis Octavio Lopez Martinez       | [LOctavioDev](https://github.com/LOctavioDev) | Backend        | Sin comentarios   |
+| Jose Alejandro Briones Arroyo     | [alexba2004](https://github.com/alexba2004)   | DevOps         | Sin comentarios   |
+| Jose Angel Fosado Animas          | [inncol-eortiz](https://github.com/inncol-eortiz) | Front Web  | Sin comentarios   |
+| Eli Haziel Ortiz Ramirez          | [BraytoGBDX](https://github.com/BraytoGBDX)   | Front Web      | Sin comentarios   |
+| Jaziel Rodriguez Lopez            | [JazzoLopez4](https://github.com/JazzoLopez4) | Backend        | Sin comentarios   |
+| Neftali Arturo Hernandez Vergara  | [Nefta11](https://github.com/Nefta11)         | Front Mobile   | Sin comentarios   |
+| Leslie Janet Aparicio Castro      | [leslie-aparicio](https://github.com/leslie-aparicio) | Documentacion | Sin comentarios   |
 
-| Integrante                        | Contacto | Rol            | Observaciones |
-|-----------------------------------|----------|----------------|---------------|
-| Luis Octavio Lopez Martinez       |          | Backend        |               |
-| Jose Alejandro Briones Arroyo     |          | DevOps         |               |
-| Jose Angel Fosado Animas          |          | Front Web      |               |
-| Eli Haziel Ortiz Ramirez          |          | Front Web      |               |
-| Jaziel Rodriguez Lopez            |          | Backend        |               |
-| Neftali Arturo Hernandez Vergara  |          | Front Mobile   |               |
-| Leslie Janet Aparicio Castro      |          | Documentacion  |               |
 
+Creado por [LOctavioDev](https://github.com/LOctavioDev)
