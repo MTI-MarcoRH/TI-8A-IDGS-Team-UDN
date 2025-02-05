@@ -1,20 +1,6 @@
 # Automated ![UM](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-La carpeta **Automated** en un proyecto generalmente se usa para almacenar scripts, pruebas o procesos automatizados . Su contenido y propósito pueden variar según el tipo de proyecto.
-
-## Estructura de Archivos
-
->Proyecto Integrador Hospital(Servicios Medicos)<br>
->| - **DBs** <br>
-> &nbsp;&nbsp;| - **NoSQL**<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;| - **Backups**<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - **Automated**<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| - Manual<br>
->| - Deliverables<br>
->| - Docs<br>
->| - Prototypes<br>
->| - QA <br>
-
+La carpeta **Automated** se utiliza para almacenar scripts, pruebas y procesos automatizados que facilitan tareas repetitivas dentro de un proyecto. Su contenido puede incluir secuencias de comandos para automatizar pruebas, configuraciones o procesos de despliegue. El propósito principal de esta carpeta es mejorar la eficiencia y reducir el trabajo manual, asegurando que tareas como la verificación de código o la implementación se realicen de manera más rápida y consistente, dependiendo del tipo de proyecto y las herramientas empleadas.
 
 ## Equipo de Desarrollo
 
@@ -27,3 +13,4 @@ La carpeta **Automated** en un proyecto generalmente se usa para almacenar scrip
 |Diego Hernández Mota|[@MotaBytes](https://github.com/MotaBytes)|Desarrollador Frontend|...|
 |Raul Reyes batalla|[@RaulReyesB](https://github.com/RaulReyesB)|Desarrollador Base de datos|...|
 
+Creado por [@Pozole10](https://github.com/Pozole10)
