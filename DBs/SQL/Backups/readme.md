@@ -9,5 +9,13 @@ En este contexto, se realizan copias de seguridad de las bases de datos para gar
 
 
 
+## Equipo de Desarrollo
 
+| Nombre | GitHub | Estado |
+|--------|--------|--------|
+| Brayn Kalid Reyes Silva | [@KalidRs](https://github.com/KalidRs) | ✔️  Revisado y aprobado |
+| Luis Iván Márquez Azuara | [@luisivmaraz](https://github.com/luisivmaraz) | ❌ Sin comentarios |
+| Aldo Tolentino Domingo | [@Aldotd12](https://github.com/Aldotd12) | Sin comentarios |
+| David Reyes Tellez | [@angelR003](https://github.com/angelR003) | ❌ Sin comentarios |
+| Irving Morales Dominguez | [@IrvingMordo26](https://github.com/IrvingMordo26) | ❌ Sin comentarios |
 
