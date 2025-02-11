@@ -13,5 +13,5 @@ En esta seccción se almacenarán los scripts de código para realizar los respa
 |Carolina Arias Reyes|[@pozole10](https://github.com/pozole10)|Desarrollador FronEnd|❌ Sin Comentarios|
 |Ángel Zacek Gutiérrez Cruz|[@zac-ek](https://github.com/zac-ek)|Desarrollador Backend|❌ Sin Comentarios|
 
-
+---
 Creado por: [@MTI-MarcoRH](https://github.com/MTI-MarcoRH).
